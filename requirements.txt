@@ -1,0 +1,14 @@
+python-telegram-bot==20.7
+deepl
+torch==2.1.0
+torchaudio==2.1.0
+TTS==0.21.3
+whisper
+pydub
+soundfile
+youtube-dl
+langdetect
+beautifulsoup4
+PyPDF2
+python-docx
+ffmpeg-python
